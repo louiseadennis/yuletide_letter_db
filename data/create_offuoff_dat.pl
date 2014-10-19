@@ -12,10 +12,11 @@ while (<FILE>) {
         chomp($line);
         @line_array = split(",", $line, 4);
         $fandom = $line_array[3];
-        $fandom =~ s/\"\"/\\\"/g;
         $fandom =~ s/^\"//;
-        $fandom =~ s/$\"//;
-        print "INSERT INTO letters (fandom, ao3_name, url) VALUES (\"$fandom\", \"$line_array[1]\", \"$line_array[2]\");";
+        $fandom =~ s/\"\"/ppppp/g;
+        $fandom =~ s/\"//;
+        $fandom =~ s/ppppp/\\\"/g;
+         print "INSERT INTO letters (fandom, ao3_name, url) VALUES (\"$fandom\", \"$line_array[1]\", \"$line_array[2]\");";
         print "\n";
     }
 }

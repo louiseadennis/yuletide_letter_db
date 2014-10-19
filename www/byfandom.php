@@ -18,25 +18,35 @@ function showerror()
 <h2>Yuletide Letters Organised by Fandom</h2>
 
 <p>Click on the fandom to see a list of letters for that fandom</p>
-<?
+
+<table>
+<?php
+   $mysql = mysql_connect($mysql_host, $mysql_user, $mysql_password);
+   if (!mysql_select_db($mysql_database))
+      showerror();
+
    $sql = "SELECT fandom FROM letters ORDER BY fandom";
-   if (!$result = mysql_query($sql, $connection))
+   if (!$result = mysql_query($sql, $mysql))
        showerror();
    
    $init = 0;
    while ($row=mysql_fetch_array($result)) {
          $fandom = $row["fandom"];
+	 $fandom_nohash = preg_replace('/\#/', 'qqqqq', $fandom);
+	 $fandom_nospace = preg_replace('/ /', 'ppppp', $fandom_nohash);
 
 	 if ($init == 0) {
 	    $old_fandom_name = $fandom;
 	    $init = 1;
-	    print("<p><a href="fandom_list.php?fandom=$fandom">$fandom</a></p>");
+	    print("<p><a href=fandom_list.php?fandom=$fandom_nospace>$fandom</a></p>");
 	 } else {
-	  if ($old_ao3_name == $ao3_name) {
+	  if ($old_fandom_name == $fandom) {
 	  } else {
-	    print("<p><a href="fandom_list.php?fandom=$fandom">$fandom</a></p>");
-	 }
-   }
+	    $old_fandom_name = $fandom;
+	    print("<p><a href=fandom_list.php?fandom=$fandom_nospace>$fandom</a></p>");
+	 }}
+}
+	
 ?>
 </table>
 

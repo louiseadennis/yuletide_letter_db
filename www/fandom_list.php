@@ -2,7 +2,10 @@
 
 require_once('./config/config.php');
 
-$fandom = $_GET["fandom"];
+$fandomppp = $_GET["fandom"];
+$fandomqqq = preg_replace('/ppppp/', ' ', $fandomppp);
+$fandom1 = preg_replace('/qqqqq/', '#', $fandomqqq);
+$fandom = preg_replace('/\'/', '\\\'', $fandom1);
 
 function showerror() 
 {
@@ -11,18 +14,26 @@ function showerror()
 ?>
 <html>
 <head>
-<title="Yuletide Letters for $fandom">
+<?php
+	print ("<title=\"Yuletide Letters for $fandom1\">");
+?>
 
 <link rel="stylesheet" href="styles/default.css" type="text/css">
 </head>
 <body>
 <div class=main>
-<h2>Yuletide Letters for $fandom</h2>
+<?php
+	print ("<h2>Yuletide Letters for $fandom1</h2>");
+?>
 
 <table>
 <?php
-   $sql = "SELECT ao3_name, url FROM letters WHERE fandom=$fandom";
-   if (!$result = mysql_query($sql, $connection))
+   $mysql = mysql_connect($mysql_host, $mysql_user, $mysql_password);
+   if (!mysql_select_db($mysql_database))
+      showerror();
+
+   $sql = "SELECT ao3_name, url FROM letters WHERE fandom='$fandom'";
+   if (!$result = mysql_query($sql, $mysql))
        showerror();
    
    while ($row=mysql_fetch_array($result)) {

@@ -7,6 +7,7 @@ function showerror()
   die("Error " . mysql_errno() . " : " . mysql_error());
 }
 ?>
+
 <html>
 <head>
 <title="Yuletide Letters Organised by Fandom">
@@ -18,9 +19,14 @@ function showerror()
 <h2>Yuletide Letters Organised by Fandom</h2>
 
 <p>Click on the fandom to see a list of letters for that fandom</p>
-<?
+<table>
+<?php
+   $mysql = mysql_connect($mysql_host, $mysql_user, $mysql_password);
+   if (!mysql_select_db($mysql_database))
+      showerror();
+
    $sql = "SELECT ao3_name, fandom, url FROM letters ORDER BY ao3_name";
-   if (!$result = mysql_query($sql, $connection))
+   if (!$result = mysql_query($sql, $mysql))
        showerror();
    
    $init = 0;
@@ -32,16 +38,18 @@ function showerror()
 	 if ($init == 0) {
 	    $old_ao3_name = $ao3_name;
 	    $init = 1;
-	    print("<tr><td>$ao3_name</td><td><a href="$url">$url</a></td><td>"($fandom");
+	    print "<tr><td>$ao3_name</td><td><a href=$url>$url</a></td><td>($fandom";
 	 } else {
-	  if ($old_ao3_name == $ao3_name) {
-	     print(", $fandom");
-	  } else {
-	     print(")</td></tr><tr><td>$ao3_name</td><td><a href="$url">$url</a></td><td>"($fandom");
+	   if ($old_ao3_name == $ao3_name) {
+	      print(", $fandom");
+	   } else {
+	        $old_ao3_name = $ao3_name;
+		print(")</td></tr><tr><td>$ao3_name</td><td><a href=$url>$url</a></td><td>($fandom");
+	   }
 	 }
-
-	 print(")</td></tr>");
    }
+
+    print(")</td></tr>");
 ?>
 </table>
 

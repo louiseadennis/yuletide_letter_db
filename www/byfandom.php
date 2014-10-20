@@ -7,6 +7,7 @@ function showerror()
   die("Error " . mysql_errno() . " : " . mysql_error());
 }
 ?>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <html>
 <head>
 <title="Yuletide Letters Organised by Fandom">
@@ -23,6 +24,7 @@ function showerror()
 
 <?php
    $mysql = mysql_connect($mysql_host, $mysql_user, $mysql_password);
+   mysql_set_charset('utf8', $mysql);
    if (!mysql_select_db($mysql_database))
       showerror();
 

@@ -34,27 +34,17 @@ function showerror()
    if (!mysql_select_db($mysql_database))
       showerror();
 
-   $sql = "SELECT ao3_name, url FROM letters WHERE fandom='$fandom'";
+   $sql = "SELECT ao3_name, url1, url2 FROM letters WHERE fandom='$fandom'";
    if (!$result = mysql_query($sql, $mysql))
        showerror();
    
    while ($row=mysql_fetch_array($result)) {
    	 $ao3_name = $row["ao3_name"];
-         $url = $row["url"];
+         $url = $row["url1"];
+         $extra_url = $row["url2"];
    	 print("<tr><td>$ao3_name</td><td><a href=$url>$url</a></td>");
-     	$sql2 = "SELECT url FROM extra_link WHERE ao3_name='$ao3_name'";
-		if ($result2 = mysql_query($sql2, $mysql)) {
-		   $found = 0;
-		   while ($row2=mysql_fetch_array($result2)) {
-		            $extra_url = $row2["url"];
-			    print "<td><a href=$extra_url>$extra_url</a></td>";
-			    $found = 1;
-	           }
-		   if ($found == 0) {
-		      print "<td>&nbsp;</td>";
-		   }
-		}
-        print("</tr>");
+         print "<td><a href=$extra_url>$extra_url</a></td>";
+         print("</tr>");
    }
 ?>
 </table>

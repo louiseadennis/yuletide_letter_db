@@ -35,17 +35,18 @@ function showerror()
    $init = 0;
    while ($row=mysql_fetch_array($result)) {
          $fandom = $row["fandom"];
-	 $fandom_nohash = preg_replace('/\#/', 'qqqqqp', $fandom);
+	 $fandom_noamp = preg_replace('/\&/', 'aaaaap', $fandom);
+	 $fandom_nohash = preg_replace('/\#/', 'qqqqqp', $fandom_noamp);
 	 $fandom_nospace = preg_replace('/ /', 'pppppq', $fandom_nohash);
 
 	 if ($init == 0) {
-	    $old_fandom_name = $fandom;
+	    $old_fandom_name = strtoupper($fandom);
 	    $init = 1;
 	    print("<p><a href=fandom_list.php?fandom=$fandom_nospace>$fandom</a><br>");
 	 } else {
-	  if ($old_fandom_name == $fandom) {
+	  if ($old_fandom_name == strtoupper($fandom)) {
 	  } else {
-	    $old_fandom_name = $fandom;
+	    $old_fandom_name = strtoupper($fandom);
 	    print("<a href=fandom_list.php?fandom=$fandom_nospace>$fandom</a><br>");
 	 }}
 }

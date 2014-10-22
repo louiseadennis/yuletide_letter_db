@@ -2,10 +2,12 @@
 
 require_once('./config/config.php');
 
-$fandomppp = $_GET["fandom"];
+$fandomaaa = $_GET["fandom"];
+$fandomppp = preg_replace('/aaaaap/', '\&', $fandomaaa);
 $fandomqqq = preg_replace('/pppppq/', ' $1', $fandomppp);
 $fandom1 = preg_replace('/qqqqqp/', '#', $fandomqqq);
-$fandom = preg_replace('/\'/', '\\\'', $fandom1);
+$fandom = urldecode(str_replace("\\","",$fandom1));
+$fandomt = preg_replace('/([^(\\\\)])\'/', '$1\\\'', $fandom);
 
 function showerror() 
 {
@@ -16,7 +18,7 @@ function showerror()
 <html>
 <head>
 <?php
-	print ("<title=\"Yuletide Letters for $fandom1\">");
+	print ("<title=\"Yuletide Letters for $fandom\">");
 ?>
 
 <link rel="stylesheet" href="styles/default.css" type="text/css">
@@ -24,7 +26,7 @@ function showerror()
 <body>
 <div class=main>
 <?php
-	print ("<h2>Yuletide Letters for $fandom1</h2>");
+	print ("<h2>Yuletide Letters for $fandom</h2>");
 ?>
 
 <p><a href=index.html>Front Page</a>, <a href=byfandom.php>Letters by Fandom</a>, <a href=byusername.php>Letters by Username</a></p>
@@ -36,7 +38,7 @@ function showerror()
    if (!mysql_select_db($mysql_database))
       showerror();
 
-   $sql = "SELECT ao3_name, url1, url2 FROM letters WHERE fandom='$fandom'";
+   $sql = "SELECT ao3_name, url1, url2 FROM letters WHERE fandom='$fandomt'";
    if (!$result = mysql_query($sql, $mysql))
        showerror();
    

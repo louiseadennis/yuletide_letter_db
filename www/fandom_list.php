@@ -29,7 +29,11 @@ function showerror()
 	print ("<h2>Yuletide Letters for $fandom</h2>");
 ?>
 
-<p><a href=index.html>Front Page</a>, <a href=byfandom.php>Letters by Fandom</a>, <a href=byusername.php>Letters by Username</a></p>
+<p><a href=index.html>Front Page</a><br>
+<a href=byusername.php>Letters by Username</a><br>
+<a href=byfandom.php>Letters by Fandom</a><br>
+<a href=byfandom_noarticles.php>Letters by Fandom (sorted ignoring English articles)</a><br>
+</p>
 
 <table border>
 <?php

@@ -16,6 +16,10 @@ function handleArticles($str) {
     if( in_array(strtolower($first),$validarticles)) return $rest.", ".$first;
     return $str;
 }
+
+function mycomp($a, $b) {
+   		  return strnatcasecmp(handleArticles($a), handleArticles($b));
+}
 ?>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <html>
@@ -52,9 +56,7 @@ function handleArticles($str) {
 	 array_push($fandoms, $fandom);
    }
 
-   usort($fandoms, function($a, $b) {
-   		  return strnatcasecmp(handleArticles($a), handleArticles($b));
-   });
+   usort($fandoms, "mycomp");
 
    foreach ($fandoms as $fandom) {
    	   $fandom_noamp = preg_replace('/\&/', 'aaaaap', $fandom);

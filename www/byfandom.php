@@ -18,7 +18,10 @@ function showerror()
 <div class=main>
 <h2>Yuletide Letters Organised by Fandom</h2>
 
-<p><a href=index.html>Front Page</a>, <a href=byusername.php>Letters by Username</a></p>
+<p><a href=index.html>Front Page</a><br>
+<a href=byusername.php>Letters by Username</a><br>
+<a href=byfandom_noarticles.php>Letters by Fandom (sorted ignoring English articles)</a><br>
+</p>
 
 <p>Click on the fandom to see a list of letters for that fandom:</p>
 

@@ -16,6 +16,7 @@ while (<FILE>) {
         $fandom =~ s/\"\"/ppppp/g;
         $fandom =~ s/\"//;
         $fandom =~ s/ppppp/\\\"/g;
+        $fandom =~ s/\-\-/\-/;
          print "INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES (\"$fandom\", \"$line_array[1]\", \"$line_array[2]\", \"$line_array[3]\");";
         print "\n";
     }

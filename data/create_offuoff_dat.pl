@@ -1,17 +1,17 @@
-$filename ="YuleLetters 2014 - Letter\ By\ Fandom.csv";
+$filename ="Yuletide Letters 2015 - Fandom listing.csv";
 
 open FILE, $filename or die $!;
 
 $init = 0;
 while (<FILE>) {
-    if ($init == 0) {
+    if ($init < 3) {
         $line = $_;
-        $init = 1;
+        $init++;
     } else {
         $line = $_;
         chomp($line);
         @line_array = split(",", $line, 5);
-        $fandom = $line_array[4];
+        $fandom = $line_array[0];
         $fandom =~ s/^\"//;
         $fandom =~ s/\"\"/ppppp/g;
         $fandom =~ s/\"//;

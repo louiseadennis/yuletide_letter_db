@@ -10,14 +10,20 @@ while (<FILE>) {
     } else {
         $line = $_;
         chomp($line);
-        @line_array = split(",", $line, 5);
-        $fandom = $line_array[0];
+        $rline = reverse $line;
+        @line_array = split(",", $rline, 26);
+        $fandom = reverse $line_array[25];
         $fandom =~ s/^\"//;
         $fandom =~ s/\"\"/ppppp/g;
         $fandom =~ s/\"//;
         $fandom =~ s/ppppp/\\\"/g;
         $fandom =~ s/\-\-/\-/;
-         print "INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES (\"$fandom\", \"$line_array[1]\", \"$line_array[2]\", \"$line_array[3]\");";
+        $ao3_name = reverse $line_array[24];
+        $url1 = reverse $line_array[23];
+        $url1 =~ s/^\"//;
+        $url1 =~ s/\"//;
+        $url2 = reverse $line_array[22];
+         print "INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES (\"$fandom\", \"$ao3_name\", \"$url1\", \"$url2\");";
         print "\n";
     }
 }

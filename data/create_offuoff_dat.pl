@@ -18,6 +18,8 @@ while (<FILE>) {
         $fandom =~ s/\"//;
         $fandom =~ s/ppppp/\\\"/g;
         $fandom =~ s/\-\-/\-/;
+        $fandom =~ s/^\s+//;
+        $fandom =~ s/\s+$//;
         $ao3_name = reverse $line_array[24];
         $url1 = reverse $line_array[23];
         $url1 =~ s/^\"//;

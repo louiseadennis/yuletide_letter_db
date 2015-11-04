@@ -133,6 +133,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Almost Human", "lady
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Almost Human", "Marie_L", "http://allele-apocalypse.tumblr.com/post/131957915246/hello-fellow-yuletider-thank-you-for-writing", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Almost Human", "Mimm", "http://littlemimm.livejournal.com/646952.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Almost Human", "Sophie", "http://not-unwise.dreamwidth.org/15372.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Almost Human", "Vashti (tvashti)", "http://tvashti.livejournal.com/52945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Alpha Protocol", "Selkit", "http://fifmeister.livejournal.com/396187.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Alphas", "famacneil", "http://tocryabout.dreamwidth.org/25819.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Alphas", "HopefulNebula", "http://hopefulnebula.dreamwidth.org/442680.html", "");
@@ -361,6 +362,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Bishoujo Senshi Sail
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Bishoujo Senshi Sailor Moon | Pretty Guardian Sailor Moon (Live-Action TV)", "hellscabanaboy", "hellscabanaboy.tumblr.com/yuletide2015", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Books", "evelyn_b", "http://evelyn-b.livejournal.com/151910.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Books", "Persiflager", "http://persiflager.livejournal.com/1722.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Books", "toast_ears", "http://toastears.livejournal.com/967.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Jewels - Anne Bishop", "Elizabeth Culmer (edenfalling)", "http://edenfalling.dreamwidth.org/881683.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Jewels - Anne Bishop", "jairissa", "http://jairissa.dreamwidth.org/48793.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Jewels - Anne Bishop", "ladypoetess", "http://ladypoetess.tumblr.com/post/132004809574/dear-yuletide-writer", "");
@@ -378,6 +380,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Sails", "match
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Sails", "Rekall", "http://rekall.dreamwidth.org/204190.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Sails", "Selena", "http://selenak.dreamwidth.org/1116891.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Sails", "skitz_phenom", "https://touchofstrange.dreamwidth.org/2336.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Sails", "dancinbutterfly", "http://dancinbutterfly.dreamwidth.org/846275.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Sails", "eurydice72", "http://eurydice72.livejournal.com/872358.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Black Ships - Jo Graham", "Settiai", "http://settiai.dreamwidth.org/2246991.html", "http://settiai.tumblr.com/post/131306787404");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Blackadder", "Jougetsu", "http://jougetsu.livejournal.com/151336.html", "");
@@ -518,7 +521,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Call the Midwife", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Calvin & Hobbes", "oxymora (oxymoron)", "http://oxymora.dreamwidth.org/17457.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Calvin and Hobbes: The Movie (Trailer) | Gritty Reboots", "jedi_penguin", "http://shelfics.livejournal.com/48407.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Calvin and Hobbes: The Movie (Trailer) | Gritty Reboots", "oxymora (oxymoron)", "http://oxymora.dreamwidth.org/17457.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Caprica", "crazykookie", "http://enjoyyourcocoa.livejournal.com/26556.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Caprica (TV)", "crazykookie", "http://enjoyyourcocoa.livejournal.com/26556.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Caprica (TV)", "Beatrice_Otter", "http://beatrice-otter.dreamwidth.org/296933.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Caprica (TV)", "The_Plaid_Slytherin", "http://plaid-slytherin.livejournal.com/216048.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Captain America (Movies) RPF", "allthatihavemet", "http://greeneyes73180.livejournal.com/56331.html", "");
@@ -619,6 +622,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Constantine (TV)", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Continuum (TV)", "Fabrisse", "http://fabrisse.livejournal.com/337396.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Continuum (TV)", "kyrilu", "http://kyrilu.dreamwidth.org/18337.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Continuum (TV)", "Piratess", "http://incidentalpiratess.dreamwidth.org/990.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Continuum (TV)", "Froggimus_Rex", "http://froggimus-rex.livejournal.com/85094.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Contrary Instincts - Ava Penn", "WildAndFreeHearts", "http://wildandfreehearts.dreamwidth.org/35824.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Contrast (Video Game)", "dizzy_fire", "https://dizzy-fire.dreamwidth.org/1869.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Contrast (Video Game)", "radiophile", "http://radiophile.livejournal.com/291210.html", "");
@@ -638,6 +642,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cousin Kate - George
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cowboy Bebop", "puella_nerdii", "http://puella-nerdii.livejournal.com/177203.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cowboy Bebop", "Steel", "http://starforgedsteel.tumblr.com/post/132007849879/yuletide-letter", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cowboy Bebop", "lordbeatrice", "http://aneruditeinpopularculture.blogspot.com.au/2015/10/dear-yuletide-writer.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cracked After Hours", "dancinbutterfly", "http://dancinbutterfly.dreamwidth.org/846275.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cracked: After Hours", "abriata", "http://abriata.livejournal.com/34932.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cracks (2009)", "etoilecourageuse", "http://flyingharmony.livejournal.com/336962.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Cracks (2009)", "Recrudescence", "http://recrudescence.dreamwidth.org/359327.html", "");
@@ -723,6 +728,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Matter (TV)", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Matter (TV)", "Maekala", "http://maekala.dreamwidth.org/1468.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Matter (TV)", "meridianrose", "http://meridian-rose.dreamwidth.org/481007.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Matter (TV)", "mlraven", "http://mlravenyuletide.livejournal.com/668.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Matter (TV)", "Froggimus_Rex", "http://froggimus-rex.livejournal.com/85094.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Shadows (1991)", "calliopes_pen", "http://calliopes-pen.dreamwidth.org/930473.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Shadows: Bloodlust (Big Finish Audio)", "jedi_penguin", "http://shelfics.livejournal.com/48407.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dark Souls (Video Game)", "Fells", "http://kurosawawind.tumblr.com/yt2015", "");
@@ -975,9 +981,11 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Everwood", "lurrel",
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Everworld Series - K. A. Applegate", "chicafrom3", "http://chicafrom3.livejournal.com/441458.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Everworld Series - K. A. Applegate", "Floranna", "http://floranna.livejournal.com/58703.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Everybody Hates Chris", "mazily", "http://mazily.dreamwidth.org/49285.html", "http://mazily.livejournal.com/486224.html");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Everybody Hates Chris", "Vashti (tvashti)", "http://tvashti.livejournal.com/52945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Ex Machina (2015)", "goddesspharo", "http://goddesspharo.livejournal.com/357395.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Ex Machina (2015)", "yuuago", "http://yuuago.dreamwidth.org/3433598.html", "http://yuuago.livejournal.com/1255710.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Ex Machina RPF", "goddesspharo", "http://goddesspharo.livejournal.com/357395.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Excellent Women - Barbara Pym", "JuneLoveland", "http://msgeorgiaworld.livejournal.com/6524.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("EXID (Band)", "cest_what", "http://blindmouse.tumblr.com/post/131863016446/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Exiles Saga and Galactic Milieu - Julian May", "ars_belli", "http://ars-belli.dreamwidth.org/118682.html", "http://ars-belli.livejournal.com/47580.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Exiles Saga and Galactic Milieu - Julian May", "idleflower", "http://idle-flower.tumblr.com/post/131661035804/dear-yuletide-author", "");
@@ -1044,11 +1052,13 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("FC Barcelona RPF", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fear The Walking Dead", "sawickies", "http://sawickies.tumblr.com/post/132252808119/hello-dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fear the Walking Dead (TV)", "Lunabee34 (Lorraine)", "http://lunabee34.dreamwidth.org/435750.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fel Del Av Gården - Movits! (Music Video)", "newredshoes", "http://newredshoes.dreamwidth.org/2015/10/24/yuletide2015letter.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Ferris Bueller's Day Off", "bethctg", "http://silsbee329.livejournal.com/424277.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Ferris Bueller's Day Off (1986)", "syllogismos", "http://syllogismos.dreamwidth.org/381.html", "http://syllogismos.livejournal.com/1030.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Figure Skating RPF", "Hildigunnur", "http://hildigunnur.livejournal.com/573898.html", "http://hildigunnur.dreamwidth.org/548121.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Figure Skating RPF", "Mosca", "http://moscarific.tumblr.com/post/131531052845/yuletide-letter-2015", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Figure Skating RPF", "yeats", "http://yeats.livejournal.com/333109.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy Crystal Chronicles", "laughingpineapple", "http://laughingpinecone.tumblr.com/post/131510550082/dear-yuletide-writer", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy IV", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy IV", "coprime", "http://coprime.dreamwidth.org/51082.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy IV", "imadra_blue", "http://imadra-blue.tumblr.com/post/131678780919/dear-yuletide-author", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy Tactics", "FireEye", "http://fireeye.dreamwidth.org/1724.html", "");
@@ -1059,6 +1069,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy VI", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy VI", "Lirillith", "http://lirillith.dreamwidth.org/65746.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIII-2", "NightsMistress", "http://batman.dreamwidth.org/24635.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIII-2", "prosodiical", "http://prosodiical.livejournal.com/15127.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIV", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIV", "noctaval", "http://noctaval.livejournal.com/78308.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIV", "Tremaile", "http://elan-morin-tedronai.tumblr.com/post/131820585709/dear-yuletide-author", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Finding Carter (TV)", "in48frames", "http://in48frames.livejournal.com/619958.html", "");
@@ -1246,6 +1257,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Green Gables Fables"
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Green Gables Fables", "Rinadoll", "http://devoted-book-nerd.tumblr.com/post/131495400236/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Green Sky Trilogy - Zilpha Keatley Snyder", "mayhap", "http://mayhap.livejournal.com/316846.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Green Wing", "featherxquill", "http://featherxquill-yuletide.tumblr.com/post/131939799460/dear-yuletide-author-2015", "https://docs.google.com/document/d/1RaHSzXUTKdKyQMQqzJ7N5Be0gLEc8FarCXIHH7f6os4/edit?usp=sharing");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Green Wing", "toast_ears", "http://toastears.livejournal.com/967.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Green-Sky Trilogy-Zilpha Keatley Snyder", "queenbookwench", "http://queenbookwench.livejournal.com/53405.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Grim Fandango", "Andraste", "http://andraste.dreamwidth.org/542431.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Grim Fandango", "vtn", "http://vtn.dreamwidth.org/1310.html", "");
@@ -1574,6 +1586,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jeeves - P. G. Wodeh
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jeeves - P. G. Wodehouse", "pikkugen", "http://pikku-gen.livejournal.com/145271.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jeeves - P. G. Wodehouse", "smilebackwards", "http://smilebackwards.livejournal.com/39226.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jeeves - P.G. Wodehouse", "Tibby", "http://bakerloo.dreamwidth.org/8205.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jeeves - P. G. Wodehouse", "JuneLoveland", "http://msgeorgiaworld.livejournal.com/6524.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jem and the Holograms (Cartoon)", "Luna", "http://tangleofthorns.livejournal.com/329801.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jem and the Holograms (Cartoon)", "TaniaRose", "http://taniarose.dreamwidth.org/690.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jem and the Holograms (Cartoon)", "ViolentFlowers", "http://violent-as-flowers.tumblr.com/post/131385077207/", "");
@@ -1621,7 +1634,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jumanji (1995)", "ga
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jumanji (1995)", "muir_wolf", "http://muir-wolf.livejournal.com/62557.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jumpin' Jack Flash (1986)", "Arduinna", "http://arduinna.dreamwidth.org/101711.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jumpin' Jack Flash (1986)", "BardicRaven", "http://bardicraven.livejournal.com/1483.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jupiter Ascending", "illumynare", "http://illumynare.livejournal.com/2184.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jupiter Ascending (2015)", "illumynare", "http://illumynare.livejournal.com/2184.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jupiter Ascending (2015)", "abbichicken", "http://abbichicken.livejournal.com/1573478.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jupiter Ascending (2015)", "airspaniel", "http://airspaniel.livejournal.com/909243.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jupiter Ascending (2015)", "alyse", "http://alyse.dreamwidth.org/779485.html", "http://alyse.livejournal.com/806705.html");
@@ -1658,8 +1671,8 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park (Movie
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park (Movies)", "tarlanx", "http://tarlanx.livejournal.com/723067.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park (Movies)", "thisissirius", "http://thisissirius.dreamwidth.org/1187363.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park (Movies)", "devilinacardigan", "http://devlinacardigan.livejournal.com/57706.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park (Movies)", "crazykookie", "http://enjoyyourcocoa.livejournal.com/26556.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park 3", "aliassmith", "https://aliassmith.dreamwidth.org/27645.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Jurassic Park Movies", "crazykookie", "http://enjoyyourcocoa.livejournal.com/26556.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Justice League & Justice League Unlimited (Cartoons)", "DoreyG", "http://doreyg.livejournal.com/355122.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Justice League & Justice League Unlimited (Cartoons)", "mtgat", "http://mtgat.livejournal.com/352409.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Justice League & Justice League Unlimited (Cartoons)", "Thistlerose", "http://thistlerose.livejournal.com/1534768.html", "");
@@ -1697,8 +1710,8 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killer Women (TV 201
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killer7", "Masu_Trout", "http://john-egbert.dreamwidth.org/11112.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killers Kill; Dead Men Die - Annie Leibovitz", "breathedout", "http://breathedout.dreamwidth.org/1756.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killers Kill; Dead Men Die - Annie Leibovitz", "kathryne", "http://tellitslant.dreamwidth.org/1392927.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys", "foxxcub", "http://foxxcub.livejournal.com/796366.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys", "mystarsandmyocean", "http://mystarsandmyocean.tumblr.com/post/131995042040/yuletide-letter-2015", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "foxxcub", "http://foxxcub.livejournal.com/796366.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "mystarsandmyocean", "http://mystarsandmyocean.tumblr.com/post/131995042040/yuletide-letter-2015", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "alchemise", "http://alchemise.dreamwidth.org/264760.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "anotherthief", "http://tidbit2008.livejournal.com/237507.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "antonomasia09", "http://antonomasia09.livejournal.com/11945.html", "");
@@ -1721,6 +1734,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "Rek
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "spyglass", "http://users.livejournal.com/spyglass_/196107.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "st_aurafina", "http://st-aurafina.dreamwidth.org/222819.html", "http://st-aurafina.livejournal.com/229499.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "Tommygirl", "http://storydivagirl.livejournal.com/469011.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Killjoys (TV)", "Froggimus_Rex", "http://froggimus-rex.livejournal.com/85094.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Kim Kardashian: Hollywood", "Eye_Of_Argonia", "http://eyeofargonia.dreamwidth.org/2126.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Kim Kardashian: Hollywood", "tristesses", "http://tristesses.dreamwidth.org/45133.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("King Arthur (2004)", "danaste ", "http://danaste.livejournal.com/1462.html", "");
@@ -1899,6 +1913,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Macbeth - Shakespear
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Macdonald Hall", "strippedhalo", "http://strippedhalo.livejournal.com/738368.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Macdonald Hall- Gordon Korman", "gala_apples", "http://gala-apples.dreamwidth.org/397553.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mad Max (Movies)", "Tolchock", "http://jeanburidansass.tumblr.com/post/132249554044/yuletide-letter-2015/", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mad Max Series", "Vashti (tvashti)", "http://tvashti.livejournal.com/52945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mad Max Series (Movies)", "ardentaislinn", "http://ardentaislinn.tumblr.com/post/131815774716/yuletide-letter", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mad Max Series (Movies)", "blackbird", "http://siryn99.livejournal.com/248347.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mad Max Series (Movies)", "elfwreck", "http://elf.dreamwidth.org/742608.html", "");
@@ -1973,6 +1988,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Man of Steel (2013)"
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Man of Steel (2013)", "Spacecadet72", "http://bearholdingashark.tumblr.com/post/131468590340/dear-yuletide-writer-letter", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Manhattan (TV)", "healingmirth", "http://healingmirth.dreamwidth.org/267509.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Manhattan (TV)", "Kivrin", "http://kivrin.dreamwidth.org/453519.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mansfield Park", "Vashti (tvashti)", "http://tvashti.livejournal.com/52945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mansfield Park - Jane Austen", "labellementeuse", "http://labellementeuse.dreamwidth.org/375539.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mansfield Park - Jane Austen", "butterflymind", "https://butterflymind.dreamwidth.org/20711.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Manuel Neuer Coke Zero Commercials", "Imkerin", "http://horriblebees.dreamwidth.org/969.html", "");
@@ -2070,6 +2086,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Miss Marple - Agatha
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Miss Marple - Agatha Christie", "Traykor", "http://traykor.dreamwidth.org/163024.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Miss Match", "Zhailei", "http://amathela.livejournal.com/277690.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Miss Pettigrew Lives for a Day (2008)", "finnglas (mjules)", "http://mjules.livejournal.com/592507.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Miss Pettigrew Lives for a Day (2008)", "JuneLoveland", "http://msgeorgiaworld.livejournal.com/6524.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Miss Pettigrew Lives for a Day (2008)", "LovelyPoet", "http://lovelypoet.livejournal.com/1671155.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mission Genesis", "kitrinlu", "http://kitrinlu.dreamwidth.org/37617.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mission: Impossible (Movies)", "geckoholic", "http://geckoholic.dreamwidth.org/482174.html", "");
@@ -2247,6 +2264,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northendgirls' Champ
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northern Exposure", "icepixie", "http://icepixie.dreamwidth.org/993865.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northern Exposure", "tjs_whatnot", "http://tjs-whatnot.livejournal.com/217405.html", "http://tjs-whatnot.dreamwidth.org/79458.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northern Exposure", "tjs_whatnot", "http://tjs-whatnot.livejournal.com/217405.html", "http://tjs-whatnot.dreamwidth.org/79458.html");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northern Exposure", "bethctg", "http://silsbee329.livejournal.com/424277.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northern Exposure", "ladygray99", "http://ladygray99.livejournal.com/302678.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northwest Smith - C.L. Moore", "psychomachia", "http://psychomachia.livejournal.com/140249.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Northwest Smith - C.L. Moore", "Sunchales", "http://dioschorium.livejournal.com/69190.html", "");
@@ -2479,6 +2497,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Power Rangers Dino T
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Power Rangers Mystic Force", "VampirePaladin", "http://sirvalkyrie.dreamwidth.org/28988.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Power Rangers RPF", "thesecondbatgirl", "http://thesecondbatgirl.dreamwidth.org/863323.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Powers (TV)", "fenellaevangela", "http://fenellaevangela.dreamwidth.org/191319.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Practical Magic", "toast_ears", "http://toastears.livejournal.com/967.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Practical Magic (1998)", "Gray Shadows (the_afterlight)", "http://the-afterlight.dreamwidth.org/115270.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Prada: Candy (2013 short film)", "afterism", "http://users.livejournal.com/_afterism/246292.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Predestination (2014)", "fenellaevangela", "http://fenellaevangela.dreamwidth.org/191319.html", "");
@@ -2534,6 +2553,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Quantum Leap", "Bard
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Quantum Leap", "Cyren2132", "http://cyren-2132.livejournal.com/615448.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Quantum Leap", "Gehayi", "http://gehayi.dreamwidth.org/517174.html", "http://gehayi.livejournal.com/536790.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Quantum Leap", "Paranoidangel", "http://paranoidangel42.livejournal.com/550443.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Quantum Leap", "Vashti (tvashti)", "http://tvashti.livejournal.com/52945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Queen of Spindles - Talis Kimberley (Album)", "Trialia", "http://trialia.dreamwidth.org/617609.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Queer as Folk (UK)", "iamtheenemy", "http://iamtheenemy.livejournal.com/359914.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Radiant Historia", "Cricket_aria", "http://person4.dreamwidth.org/142824.html", "");
@@ -2796,6 +2816,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "words
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "yasaman", "http://yasaman.dreamwidth.org/467611.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "yellow_ferrari", "http://caesaria.livejournal.com/299520.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "zvi", "http://zvi.dreamwidth.org/742407.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "Froggimus_Rex", "http://froggimus-rex.livejournal.com/85094.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "corialis", "http://corialis.livejournal.com/277757.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "NarielAlan", "http://oquintoanjo.blogspot.com.br/2015/10/yuletide-2015.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sense8 (TV)", "Recrudescence", "http://recrudescence.dreamwidth.org/359327.html", "");
@@ -2815,6 +2836,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Seveneves - Neal Ste
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("SEVENTEEN (Band)", "florisuga", "http://trinketries.livejournal.com/8519.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("SEVENTEEN (Band)", "inconspicuouslyblue", "http://blindreaming.livejournal.com/5327.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sevenwaters Trilogy - Juliet Marillier", "marketchippie", "http://marketchippie.livejournal.com/138108.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Shades of Grey - Jasper Fforde", "JuneLoveland", "http://msgeorgiaworld.livejournal.com/6524.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Shadowrun: Hong Kong", "Andraste", "http://andraste.dreamwidth.org/542431.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Shadowrun: Hong Kong", "dizzy_fire", "https://dizzy-fire.dreamwidth.org/1869.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Shadows - Robin McKinley", "meretricula", "http://meretricula.livejournal.com/239652.html", "https://meretricula.dreamwidth.org/244787.html");
@@ -2861,6 +2883,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silicon Valley (TV)"
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silicon Valley (TV)", "Lies_d", "http://notalickofsense.tumblr.com/post/131920766369/dear-yule-goat", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silicon Valley (TV)", "vtn", "http://vtn.dreamwidth.org/1310.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silicon Valley (TV)", "youjik33", "http://youjik33.livejournal.com/87926.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silicone Valley", "dancinbutterfly", "http://dancinbutterfly.dreamwidth.org/846275.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silk (Comics)", "Ladymercury_10", "http://ladymercury-10.livejournal.com/132000.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silk (TV)", "vix_spes", "http://vix-spes.livejournal.com/214800.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Silk Stalkings", "Amilyn", "http://amilyn.livejournal.com/842408.html", "");
@@ -2881,6 +2904,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Six Feet Under", "Ch
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Six Feet Under", "Taste_of_Suburbia", "http://ivory-angel99.livejournal.com/11580.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sk8er Boi - Avril Lavigne", "innerbrat", "https://innerbrat.dreamwidth.org/718026.html", "http://innerbrat.livejournal.com/756001.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("SKET Dance", "Kerioth", "http://keriothiam.livejournal.com/560.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Skullgirls", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sky Captain and the World of Tomorrow (2004)", "cefyr", "http://cefyr.livejournal.com/19059.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sky High (2005)", "Gray Shadows (the_afterlight)", "http://the-afterlight.dreamwidth.org/115270.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Sky High (2005)", "Missy", "http://rise-your-dead.livejournal.com/237366.html", "http://bring-me-sugar.dreamwidth.org/13259.html");
@@ -2996,6 +3020,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: T
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: X-wing Series - Aaron Allston & Michael Stackpole", "cero_ate", "http://cero-ate.livejournal.com/140282.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: X-Wing Series - Aaron Allston & Michael Stackpole", "fabrega", "http://fabrega.dreamwidth.org/1012901.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: X-wing Series - Aaron Allston & Michael Stackpole", "izzybeth", "https://izzy.dreamwidth.org/1597210.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: X-wing Series - Aaron Allston & Michael Stackpole", "Froggimus_Rex", "http://froggimus-rex.livejournal.com/85094.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: X-Wing Series - Michael A. Stackpole and Aaron Allston", "shihadchick", "http://shihadchick.dreamwidth.org/1617583.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars: Aftermath - Chuck Wendig", "fabrega", "http://fabrega.dreamwidth.org/1012901.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars: Rebels", "illumynare", "http://illumynare.livejournal.com/2184.html", "");
@@ -3246,6 +3271,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Chronicles of Mo
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Chronicles of Riddick series", "boywonder", "http://boywonder.dreamwidth.org/150385.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Chronicles of Riddick Series", "evenmyself", "http://evenmyself.livejournal.com/1539.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Chronicles of Riddick Series", "Malkontent", "https://docs.google.com/document/d/1-09-0rXBfFWD8CAxBfT63MJznIvKsMjqhOnfPJ-dd5U/edit?usp=sharing", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Clangers", "toast_ears", "http://toastears.livejournal.com/967.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Coldest Girl in Coldtown", "scorpiod", "http://scorpiod1.livejournal.com/106437.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Coldest Girl in Coldtown - Holly Black", "folkloricfeel", "http://ofmymediumsizedamericanheart.tumblr.com/post/131435355347/dear-yuletide-letter-2015", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Collector (Canada TV)", "skieswideopen", "http://skieswideopen.livejournal.com/199513.html", "http://skieswideopen.dreamwidth.org/186858.html");
@@ -3885,6 +3911,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Under Jurisdiction -
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Under the Dome (TV)", "OhWilloTheWisp", "http://polleekin.livejournal.com/1040.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Underland: The Last Surfacer (demo trailer)", "Burning_Nightingale", "http://burning-night.livejournal.com/31809.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale", "ShamanicShaymin", "http://insanepurin.livejournal.com/1007166.html", "http://shamanicshaymin.dreamwidth.org/130023.html");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "Cricket_aria", "http://person4.dreamwidth.org/142824.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "mangle_loves_slash", "http://mangleluvsslash.livejournal.com/1304.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "phidari", "http://phidari.dreamwidth.org/252996.html", "");
@@ -4023,6 +4050,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Washington Capitals 
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Washington Capitals RPF", "SomebodyOwens", "http://sesquipedaliatic.dreamwidth.org/25600.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Washington Capitals RPF", "Sybill", "http://sybill.dreamwidth.org/1013.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Washington Capitals RPF", "vissy", "https://true-statement.dreamwidth.org/19564.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Washington Capitals RPF", "bethctg", "http://silsbee329.livejournal.com/424277.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Watching the Detectives (2007)", "tamarind (rogue)", "http://tamarind-rogue.livejournal.com/11039.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Watchmen (comic)", "Tolchock", "http://jeanburidansass.tumblr.com/post/132249554044/yuletide-letter-2015/", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Watership Down - Richard Adams", "astrokath", "http://chesneycat.livejournal.com/235942.html", "");
@@ -4168,6 +4196,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("미생 | Misaeng | I
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("미생 | Misaeng | Incomplete Life (TV)", "sometimeforever", "http://sometimeforever.dreamwidth.org/348.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("별에서 온 그대 | My Love From the Star", "GhostJ", "http://ghostj.livejournal.com/21560.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("별에서 온 그대 | My Love From the Star", "glitterpig", "http://glitterpig.dreamwidth.org/358.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("별에서 온 그대 | My Love From the Star", "Vashti (tvashti)", "http://tvashti.livejournal.com/52945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("서양골동양과자점 앤티크 | Antique (2008)", "karanguni", "http://karanguni.dreamwidth.org/156643.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("서양골동양과자점 앤티크 | Antique (2008)", "kurushi", "https://kurushi-ficage.dreamwidth.org/38930.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("신의 | Faith | The Great Doctor", "sevenofspade", "http://dhampyresa.dreamwidth.org/105054.html", "");

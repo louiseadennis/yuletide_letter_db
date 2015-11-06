@@ -425,6 +425,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Book of Life (2014)"
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Book of Life (2014)", "finnglas (mjules)", "http://mjules.livejournal.com/592507.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Book of Life (2014)", "fresne", "http://fresne.dreamwidth.org/242231.html#cutid1", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Book of Life (2014)", "vociferocity", "http://montage.dreamwidth.org/2642.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Books of the Raksura", "spoke", "http://spoke.dreamwidth.org/389564.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Books of the Raksura - Martha Wells", "Frostfire", "http://frostfire.dreamwidth.org/151124.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Books of the Raksura - Martha Wells", "Nestra", "http://nestra.dreamwidth.org/451239.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Books of the Raksura - Martha Wells", "Pentapus", "http://pentapus.dreamwidth.org/70933.html", "");
@@ -1076,6 +1077,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy Tactic
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy Unlimited", "Rose Argent (roseargent)", "http://roseargent.dreamwidth.org/87248.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy VI", "imadra_blue", "http://imadra-blue.tumblr.com/post/131678780919/dear-yuletide-author", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy VI", "Lirillith", "http://lirillith.dreamwidth.org/65746.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy VI", "spoke", "http://spoke.dreamwidth.org/389564.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIII-2", "NightsMistress", "http://batman.dreamwidth.org/24635.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIII-2", "prosodiical", "http://prosodiical.livejournal.com/15127.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Final Fantasy XIV", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
@@ -1233,6 +1235,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Glamourist Histories
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Glass Family Saga - J. D. Salinger", "tjs_whatnot", "http://tjs-whatnot.livejournal.com/217405.html", "http://tjs-whatnot.dreamwidth.org/79458.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Glass Family Saga - J. D. Salinger", "tjs_whatnot", "http://tjs-whatnot.livejournal.com/217405.html", "http://tjs-whatnot.dreamwidth.org/79458.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Glitch (Video Game)", "isabeau", "http://ysobel.dreamwidth.org/474236.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Glitch (Video Game)", "spoke", "http://spoke.dreamwidth.org/389564.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gokusen (Manga", "GhostJ", "http://ghostj.livejournal.com/21560.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gokusen (Manga)", "Prinzenhasserin", "http://prinzenhasserin.tumblr.com/post/132030476150/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gokusen (manga)", "Sook", "http://sook0.livejournal.com/703.html", "");
@@ -3631,6 +3634,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Mystery of Edwin
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Nanny", "TanyaReed", "http://amuselikeruby.livejournal.com/18624.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Neverending Story (Movies)", "TaniaRose", "http://taniarose.dreamwidth.org/690.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Newsroom (US TV)", "Pameluke", "http://janoda.tumblr.com/post/131512511380/dear-yuletide-author", "http://pameluke.dreamwidth.org/355.html");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Night Circus", "spoke", "http://spoke.dreamwidth.org/389564.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Night Circus - Erin Morgenstern", "Jai (jaiwrites)", "http://thebeatneverleaves.tumblr.com/yuletide2015", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Night Circus - Erin Morgenstern", "thelittlestbird", "http://ladybird97.livejournal.com/970439.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Nonesuch - Georgette Heyer", "DesertVixen", "http://desert-vixen.livejournal.com/721249.html", "");
@@ -4189,6 +4193,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yo-kai Watch", "krit
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yoko Tsuno (Comics)", "renquise", "http://renquise.tumblr.com/post/131987411467/yuletide-letter-2015", "http://renquise.livejournal.com/33200.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yonderland (TV 2013)", "afterism", "http://users.livejournal.com/_afterism/246292.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yonderland (TV)", "meridianrose", "http://meridian-rose.dreamwidth.org/481007.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yoroiden Samurai Troopers", "spoke", "http://spoke.dreamwidth.org/389564.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yoroiden Samurai Troopers | Ronin Warriors", "alessandriana", "http://alessandriana.livejournal.com/158546.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yoroiden Samurai Troopers | Ronin Warriors", "Pentapus", "http://pentapus.dreamwidth.org/70933.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Yoroiden Samurai Troopers | Ronin Warriors", "Ryuutchi", "http://sparklingcleanlies.tumblr.com/post/132003012792/hello-yulegoat-welcome-to-my-yuletide-treasures", "");

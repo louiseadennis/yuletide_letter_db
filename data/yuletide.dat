@@ -884,6 +884,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Dwarf Fortress", "tu
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Early Edition", "akamarykate", "http://akamarykate.livejournal.com/390991.html", "http://akamarykate.dreamwidth.org/407572.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Early Edition", "Amilyn", "http://amilyn.livejournal.com/842408.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Earth 2(TV 1994)", "LillyRose", "http://lilly-rose.livejournal.com/523528.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Earth Girl Trilogy - Janet Edwards", "Lullabymoon", "http://lullabymoon.dreamwidth.org/253592.html", "http://lullabymoon.livejournal.com/256417.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Earth: Final Conflict", "brightaspiring", "http://brightaspiring.tumblr.com/post/131926551767/hi-yuletide-author-first-youre-totally", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Earth's Children - Jean M. Auel", "ozqueen", "http://sweetcarousel.dreamwidth.org/115708.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Earthsea - Ursula K. Le Guin", "lotesse", "http://lotesse.dreamwidth.org/352201.html", "");
@@ -1024,6 +1025,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Faking It (TV 2014)"
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Falco Series - Lindsey Davis", "Vaznetti", "http://vaznetti.dreamwidth.org/51488.html", "http://vaznetti.livejournal.com/564526.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Falcon - Mark Smith and Jamie Thomson", "Serenade", "http://meteordust.livejournal.com/156866.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fallen Blade - Kelly McCullough", "quantumvelvet", "http://quantumvelvet.dreamwidth.org/8038.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fallen Blade - Kelly McCullough", "Lullabymoon", "http://lullabymoon.dreamwidth.org/253592.html", "http://lullabymoon.livejournal.com/256417.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fallen London | Echo Bazaar", "100indecisions", "http://thelightofthingshopedfor.tumblr.com/post/131927193687/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fallen London | Echo Bazaar", "damask_and_dark", "http://rosedamask.dreamwidth.org/3197.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Fallen London | Echo Bazaar", "Serenade", "http://meteordust.livejournal.com/156866.html", "");
@@ -3775,6 +3777,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Squire's Tales S
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Stand - Stephen King", "ninety6tears", "http://ninety6tears.livejournal.com/157359.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Storied Life of A. J. Fikry - Gabrielle Zevin", "chicleeblair", "http://chicleeblair.tumblr.com/post/131701125599/dear-yuletide-writer-2015", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Sunne in Splendour - Sharon Kay Penman", "blueteak", "http://blueteak.livejournal.com/20103.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Tales of Einarinn - Juliet E McKenna", "Lullabymoon", "http://lullabymoon.dreamwidth.org/253592.html", "http://lullabymoon.livejournal.com/256417.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Tales of Einarinn - Juliet E. McKenna", "bigsunglasses ", "http://kiphiana.livejournal.com/4190.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Talk of the Town (1942)", "Fabrisse", "http://fabrisse.livejournal.com/337396.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Tarot Café", "Truth", "http://dhaunea.tumblr.com/post/131902670986/dear-yuletide-writer", "");

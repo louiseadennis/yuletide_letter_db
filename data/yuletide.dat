@@ -4078,8 +4078,8 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undead is Very Hot R
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Under Jurisdiction - Susan R Matthews", "Dryad", "http://xfdryad.livejournal.com/44861.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Under the Dome (TV)", "OhWilloTheWisp", "http://polleekin.livejournal.com/1040.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Underland: The Last Surfacer (demo trailer)", "Burning_Nightingale", "http://burning-night.livejournal.com/31809.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale", "ShamanicShaymin", "http://insanepurin.livejournal.com/1007166.html", "http://shamanicshaymin.dreamwidth.org/130023.html");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "ShamanicShaymin", "http://insanepurin.livejournal.com/1007166.html", "http://shamanicshaymin.dreamwidth.org/130023.html");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "JackOfNone", "http://jack-of-none.tumblr.com/post/132002566648/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "Cricket_aria", "http://person4.dreamwidth.org/142824.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "mangle_loves_slash", "http://mangleluvsslash.livejournal.com/1304.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Undertale (Video Game)", "phidari", "http://phidari.dreamwidth.org/252996.html", "");

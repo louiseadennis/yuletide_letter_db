@@ -50,6 +50,12 @@ function showerror()
    	 $ao3_name = $row["ao3_name"];
          $url = $row["url1"];
          $extra_url = $row["url2"];
+	 if (substr($url, 0, 4) != "http") {
+		$url = "http://" . $url;
+	 }
+     	 if ($extra_url != "" && substr($extra_url, 0, 4) != "http") {
+		$extra_url = "http://" . $extra_url;
+	 }
    	 print("<tr><td>$ao3_name</td><td><a href=$url>$url</a></td>");
          print "<td><a href=$extra_url>$extra_url</a></td>";
          print("</tr>");

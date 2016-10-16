@@ -43,6 +43,12 @@ function showerror()
          $url = $row["url1"];
 	 $extra_url = $row["url2"];
 
+	 if (substr($url, 0, 4) != "http") {
+               $url = "http://" . $url;
+         }
+	 if (substr($extra_url, 0, 4) != "http" && $extra_url != "") {
+		$extra_url = "http://" . $extra_url;
+ 	 }
 	 if ($init == 0) {
 	    $old_ao3_name = $ao3_name;
 	    $init = 1;

@@ -1217,6 +1217,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gummi Bears (TV)", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gundam 00", "effectaffect", "http://effectaffect.dreamwidth.org/2799.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gundam 00P", "Kalloway", "http://kalloway.dreamwidth.org/1501656.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gunnerkrigg Court", "ChokolatteJedi", "https://chokolattejedi.dreamwidth.org/6422.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Gunnerkrigg Court", "republic", "http://www.chiark.greenend.org.uk/~republic/yuletide2016.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Guns N' Roses (music)", "Lizwontcry", "http://lizwontcry.livejournal.com/601141.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Guys and Dolls - Loesser/Swerling/Burrows", "ryfkah", "http://skygiants.dreamwidth.org/450609.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Guys and Dolls-Loesser/Swerling/Burrows", "ladyoneill", "http://ladyoneill.livejournal.com/1328869.html", "");
@@ -2269,6 +2270,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Queen of the Silver 
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Queen Sugar (TV)", "anotherthief", "http://tidbit2008.livejournal.com/237945.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Questionable Content", "Ellen Fremedon", "http://ellen-fremedon.dreamwidth.org/914900.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Questionable Content", "song_of_staying", "http://court-of-ocelot.livejournal.com/1109.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Questionable Content", "republic", "http://www.chiark.greenend.org.uk/~republic/yuletide2016.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Radiance - Catherynne M. Valente", "Lirazel", "http://penny-lane-42.livejournal.com/423082.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("RAF Pilot Song - Horrible Histories (Song)", "makiyakinabe", "https://makiyakinabe.dreamwidth.org/", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Random Harvest (1942)", "Beatrice_Otter", "http://beatrice-otter.dreamwidth.org/328993.html", "");
@@ -2805,6 +2807,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Conjuring (Movie
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Conjuring (movies)", "evewithanapple", "http://evewithanapple.dreamwidth.org/434857.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Conjuring (movies)", "jemdetta", "http://jemdetta.tumblr.com/post/151708715348/dear-yuletide-author", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Cruel Sea - Nicholas Monsarrat", "Lilliburlero", "http://lilliburlero.dreamwidth.org/169712.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Culture", "republic", "http://www.chiark.greenend.org.uk/~republic/yuletide2016.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Culture - Iain M Banks", "Kastaka", "https://chess.dreamwidth.org/407935.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Culture - Iain M. Banks", "karanguni", "http://karanguni.dreamwidth.org/167237.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Curse of Oak Island RPF", "subito", "http://lincolnimp.livejournal.com/259010.html", "");

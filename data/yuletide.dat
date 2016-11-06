@@ -1770,6 +1770,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mansfield Park - Jan
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mara Daughter of the Nile - Eloise Jarvis McGraw", "Damkianna", "http://damkianna.dreamwidth.org/85632.html", "http://damkianna.livejournal.com/68646.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mara Daughter of the Nile - Eloise Jarvis McGraw", "Liviapenn", "http://liviapenn.dreamwidth.org/545281.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Marathon (Video Games)", "Hokuto", "http://hokuton-punch.dreamwidth.org/2016/10/09/", "http://hokuton-punch.livejournal.com/2016/10/09/");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Marco Polo", "idareu2bme", "http://dareu2beme.livejournal.com/67639.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Marco Polo (TV)", "brodeurbunny30", "http://brodeurbunny30.livejournal.com/579694.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mario Kart 8", "Longpig", "http://docs.google.com/document/d/1WGc77rClwclwo4Yp36Su9dApnsKawTX-rFdf030C-48/edit?usp=sharing", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mario Story | Paper Mario", "ShamanicShaymin", "http://shamanicshaymin.dreamwidth.org/137935.html", "http://insanepurin.livejournal.com/1015123.html");
@@ -3269,6 +3270,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Toshokan Rocket (Min
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Total Nonstop Action Wrestling", "RedLeaderFic", "http://redleaderfic.dreamwidth.org/2781.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Total Recall", "Hecate", "http://slippery-fish.livejournal.com/2275495.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Total Recall 2070", "Hokuto", "http://hokuton-punch.dreamwidth.org/2016/10/09/", "http://hokuton-punch.livejournal.com/2016/10/09/");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Touch of Pink", "idareu2bme", "http://dareu2beme.livejournal.com/67639.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Touken Ranbu", "Calenlass_Greenleaf (Cal)", "http://aorasu.dreamwidth.org/1871.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Touken Ranbu Musical: The Story of Atsukashiyama", "sekaiseifuku", "https://sekaiseifuku.dreamwidth.org/67640.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("TOUS - Tender Stories Nº4", "saiditallbefore", "http://saiditallbefore.livejournal.com/7945.html", "");
@@ -3398,6 +3400,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("VfB Stuttgart RPF", 
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Vicious (TV)", "tamarind (rogue)", "http://tamarind-rogue.livejournal.com/11424.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Vicky Bliss series - Elizabeth Peters", "betony", "https://betony.dreamwidth.org/7212.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Victim: Gate of Spirits", "gryvon", "http://gryvon.livejournal.com/673068.html", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Victor Frankenstein RPF", "idareu2bme", "http://dareu2beme.livejournal.com/67639.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Victoria (TV)", "moogle62", "http://moogle62.livejournal.com/129504.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Victoria (TV)", "Sobriquett", "http://sobriquett.tumblr.com/post/151579448918/dearest-yuletide-author", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Victoria (TV)", "ars_belli", "http://ars-belli.dreamwidth.org/127540.html", "");

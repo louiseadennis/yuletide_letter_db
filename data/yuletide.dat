@@ -1902,7 +1902,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mr. Robot (TV)", "th
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mrs Bradley Mysteries", "Toft", "http://toft.dreamwidth.org/782933.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mrs. Piggle-Wiggle Series - Betty MacDonald", "Katherine", "http://katherine.dreamwidth.org/223841.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mrs. Piggle-Wiggle Series - Betty MacDonald", "LeBibish", "http://quiresti.livejournal.com/77646.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mrs. Pollifax - Dorothy Gilman", "margo_kim", "http://margotkim.tumblr.com/post/151463284291/dear-yuletide-writer", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mrs. Pollifax - Dorothy Gilman", "margo_kim", "http://andhumanslovedstories.tumblr.com/post/151463284291/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mrs. Todd's Shortcut - Stephen King", "slr2moons", "http://slr2moons.dreamwidth.org/204695.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Mukuro Naru Hoshi Tama Taru Ko | Shadow Star", "suitablyskippy", "http://suitablyskippy.tumblr.com/post/151345466734/dear-yuletide-writermore-hello-im-really", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Munchkin Cthulhu (Board Game)", "pikkugen", "http://pikku-gen.livejournal.com/145620.html", "");
@@ -2566,7 +2566,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Holiday Sp
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "Burning_Nightingale", "http://burning-night.livejournal.com/32705.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "Capella", "http://catpella.dreamwidth.org/10959.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "Filigranka", "https://filigranka.dreamwidth.org/22209.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "margo_kim", "http://margotkim.tumblr.com/post/151463284291/dear-yuletide-writer", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "margo_kim", "http://andhumanslovedstories.tumblr.com/post/151463284291/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "Shadaras", "http://shadaras.dreamwidth.org/571.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic", "spookykingdomstarlight", "http://spookykingdomstarlight.dreamwidth.org/2348.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Star Wars Legends: Knights of the Old Republic II: The Sith Lords", "Capella", "http://catpella.dreamwidth.org/10959.html", "");
@@ -2737,7 +2737,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone",
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone", "Marchpanes", "http://marchpanes.dreamwidth.org/1111.html#cutid1", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone", "renquise", "http://renquise.livejournal.com/33754.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone (Podcast)", "brampersandon", "http://sailor.dreamwidth.org/45059.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone (Podcast)", "margo_kim", "http://margotkim.tumblr.com/post/151463284291/dear-yuletide-writer", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone (Podcast)", "margo_kim", "http://andhumanslovedstories.tumblr.com/post/151463284291/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventure Zone (Podcast)", "yassan", "http://yassan.livejournal.com/14445.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventures of Buckaroo Banzai Across The 8th Dimension (1984)", "Lorelei", "http://lorelei42.dreamwidth.org/6245.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("The Adventures of Miss Libellule", "Shusu", "http://bit.do/shusu-tide16", "");
@@ -3528,7 +3528,7 @@ INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "ForsythiaRising", "http://this-does-not-concern-you.tumblr.com/post/151313608223/a-letter-for-yuletide-2016-edition", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "KiaraSayre", "http://starsandatoms.tumblr.com/post/151406017168/dear-yuletide-author-first-of-all-thank-you-so", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "Leidolette", "http://leidolette.livejournal.com/3268.html", "");
-INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "margo_kim", "http://margotkim.tumblr.com/post/151463284291/dear-yuletide-writer", "");
+INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "margo_kim", "http://andhumanslovedstories.tumblr.com/post/151463284291/dear-yuletide-writer", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf 359 (Radio)", "Veleda_k", "http://veleda-k.dreamwidth.org/464453.html", "http://veleda-k.livejournal.com/460993.html");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolf In Night - Tara K Harper", "Pameluke", "http://pameluke.dreamwidth.org/6316.html", "");
 INSERT INTO letters (fandom, ao3_name, url1, url2) VALUES ("Wolfblood", "LadySilver", "http://argentum-ls.dreamwidth.org/73657.html", "");
